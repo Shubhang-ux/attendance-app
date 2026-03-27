@@ -26,7 +26,7 @@
  *      and sets request.user automatically
  */
 
-const BASE_URL = 'http://localhost:8000/api';
+const BASE_URL = 'https://attendr-backend-0eym.onrender.com/api';
 
 /* ─── Helper: Get stored auth token ─── */
 function getToken() {
